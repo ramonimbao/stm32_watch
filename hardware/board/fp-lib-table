@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name Tact_Switch_WurthElektronik)(type KiCad)(uri "$(KIPRJMOD)/Tact_Switch_WurthElektronik.pretty")(options "")(descr ""))
+  (lib (name HOLDER_COIN_CELL)(type KiCad)(uri "$(KIPRJMOD)/HOLDER_COIN_CELL.pretty")(options "")(descr ""))
+  (lib (name Crystals_SMD)(type KiCad)(uri "$(KIPRJMOD)/Crystals_SMD.pretty")(options "")(descr ""))
+  (lib (name VIAs)(type KiCad)(uri /home/ramon/Projects/KiCad/ESC/VIAs.pretty)(options "")(descr ""))
+  (lib (name Panda)(type KiCad)(uri "$(KIPRJMOD)/Panda.pretty")(options "")(descr ""))
+  (lib (name Panda_NORMAL)(type KiCad)(uri "$(KIPRJMOD)/Panda_NORMAL")(options "")(descr ""))
+  (lib (name Generic_Connector)(type KiCad)(uri "$(KIPRJMOD)/Generic_Connector.pretty")(options "")(descr ""))
+  (lib (name TactSwitch_ALPS)(type KiCad)(uri "$(KIPRJMOD)/TactSwitch_ALPS.pretty")(options "")(descr ""))
+)

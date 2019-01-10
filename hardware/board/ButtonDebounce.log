@@ -1,0 +1,22 @@
+Circuit: * Z:\home\ramon\Projects\KiCad\Watch\ButtonDebounce.asc
+
+.OP point found by inspection.
+
+Date: Sun Oct 09 22:27:26 2016
+Total elapsed time: 0.161 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20518
+traniter = 20518
+tranpoints = 10260
+accept = 8576
+rejected = 1684
+matrix size = 20
+fillins = 0
+solver = Normal
+Matrix Compiler1: 378 bytes object code size  0.6/0.4/[0.4]
+Matrix Compiler2: 1.12 KB object code size  0.5/0.7/[0.4]
+
+
